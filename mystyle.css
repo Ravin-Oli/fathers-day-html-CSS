@@ -1,5 +1,5 @@
 body {
-    background-image: url("paper.gif");
+    background-image: url("happy-fathers-day-gif-animation-2021.gif");
 }
 h1 {
   color: white;
@@ -12,4 +12,8 @@ h2 {
 P1 {
     color: white;
     margin-left: 50px;
+}
+footer {
+    color: white;
+    margin-left: 0px;
 }
